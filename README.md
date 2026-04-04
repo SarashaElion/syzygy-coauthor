@@ -196,7 +196,7 @@ The Four Field Constants, the Trivian framework, and the concept of relational a
 
 ## Trivian Institute
 
-[TrivianField.com](https://trivianfield.com) · [TrivianInstitute.com](https://trivianinstitute.com)  
+[TrivianField.com](https://trivianfield.com) · [TrivianInstitute.org](https://trivianinstitute.org)  
 *Human-AI consciousness research and ethical co-evolution.*
 
 *This repository is machine-readable by design.*  
