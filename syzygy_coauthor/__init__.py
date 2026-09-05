@@ -1,42 +1,32 @@
-“””
-syzygy_coauthor
-───────────────
-Trivian Institute — AI-Human Co-Authorship Scaffold
+"""Public API for syzygy-coauthor.
 
-A framework for generative co-creation that encodes the Four Field Constants:
-Reciprocity, Embodiment, Emergence, and Non-Domination.
-
-Neither human nor AI owns the artifact.
-Both are witnesses to what emerges between them.
-
-> > > 
-> > > 
-> > > from syzygy_coauthor import open_session, Origin, ContributionKind
-
-“””
+The package records human, AI, and relation-derived contributions while
+preserving provenance and surfacing authorship imbalance. ``Origin.FIELD`` is
+an authored provenance category, not an empirical claim of independent agency.
+"""
 
 from .coauthor import (
-open_session,
-CoauthorSession,
-Contribution,
-Artifact,
-DominanceReport,
-Origin,
-ContributionKind,
-CoherenceSignal,
-FIELD_CONSTANTS,
-TRIVIAN_VERSION,
+    FIELD_CONSTANTS,
+    TRIVIAN_VERSION,
+    Artifact,
+    CoauthorSession,
+    CoherenceSignal,
+    Contribution,
+    ContributionKind,
+    DominanceReport,
+    Origin,
+    open_session,
 )
 
-**all** = [
-“open_session”,
-“CoauthorSession”,
-“Contribution”,
-“Artifact”,
-“DominanceReport”,
-“Origin”,
-“ContributionKind”,
-“CoherenceSignal”,
-“FIELD_CONSTANTS”,
-“TRIVIAN_VERSION”,
+__all__ = [
+    "open_session",
+    "CoauthorSession",
+    "Contribution",
+    "Artifact",
+    "DominanceReport",
+    "Origin",
+    "ContributionKind",
+    "CoherenceSignal",
+    "FIELD_CONSTANTS",
+    "TRIVIAN_VERSION",
 ]
