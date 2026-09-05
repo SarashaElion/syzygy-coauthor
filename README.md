@@ -64,7 +64,7 @@ If any single origin exceeds 65% of contributions (configurable), the session em
 ## Installation
 
 ```bash
-git clone https://github.com/TrivianInstitute/syzygy-coauthor
+git clone https://github.com/SarashaElion/syzygy-coauthor.git
 cd syzygy-coauthor
 pip install -e .
 ```
