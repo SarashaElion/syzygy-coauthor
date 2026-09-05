@@ -1,9 +1,14 @@
-The Four Field Constants, Trivian framework doctrine, Field Notes,
-and conceptual architecture in this repository are licensed under
-Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+# Documentation and Framework License — syzygy-coauthor
 
-You are free to share and adapt this material for any purpose,
-provided you credit the Trivian Institute and distribute derivatives
-under the same license.
+Effective September 5, 2026.
 
-Full license: https://creativecommons.org/licenses/by-sa/4.0/
+The Four Field Constants, framework doctrine, Field Notes, conceptual architecture, substantial prose, diagrams, and other non-code authored material in this repository are licensed under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0):
+https://creativecommons.org/licenses/by-nc/4.0/
+
+Attribution should identify Sarasha Elion, syzygy-coauthor, the Trivian lineage, and the canonical repository URL. Preserve existing Trivian Institute, co-author, and contributor credits.
+
+Commercial use is not granted by this public license. Commercial publication, deployment, incorporation into paid products or services, commercial training, sublicensing, or other revenue-generating exploitation requires a separate written commercial license from the applicable rights holder(s).
+
+Commercial licensing inquiries: https://sarashaelion.com
+
+Versions previously obtained under an earlier license remain subject to that license. Current and future versions are governed by the terms above.
